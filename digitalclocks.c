@@ -34,5 +34,5 @@ int main()
         sleep(d);// the function sleep slow down the while loop make it more like a real clock
         system("cls"); // this clears the screen
         }
-        return 0;
+        return 1;
     }
